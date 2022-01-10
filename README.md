@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseneld&theme=apprentice&layout=compact)](https://github.com/iseneld/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice&layout=compact)
 
 

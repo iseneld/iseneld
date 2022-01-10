@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iseneld
-- 👀 I’m interested in consciousness and sensory exploration.
-- 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on tons of ideas.
-- 📫 How to reach me: michel@hypnusrecords.com
+- 👋 Hi, I’m **@iseneld**
+- 👀 I’m interested in **consciousness** and **sensory exploration**.
+- 🌱 I’m currently learning **frontend development**.
+- 💞️ MTG Commander pet deck: **Adeline, Resplendent Cathar**
+- 📫 How to reach me: **michel@hypnusrecords.com**
 
 <!---
 iseneld/iseneld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

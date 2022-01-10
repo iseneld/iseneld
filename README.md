@@ -9,7 +9,7 @@ iseneld/iseneld is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseneld&theme=apprentice)](https://github.com/iseneld/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice)
+
 

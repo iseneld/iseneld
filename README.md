@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@iseneld**
 - 👀 I’m interested in **consciousness** and **sensory exploration**.
 - 🌱 I’m currently learning **frontend development**.
-- 💞️ MTG Commander pet deck: **Adeline, Resplendent Cathar**
+- 💞️ MTG Commander pet deck: **Adeline, Resplendent Cathar** (Human Tribal Tokens)
 - 📫 How to reach me: **michel@hypnusrecords.com**
 
 <!---

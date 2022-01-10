@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <style>
   div {
-    style="width: 100%; display: flex; justify-content: center;"
+    style="width: 100%; display: flex; justify-content: center;
   }
 </style>
 <div>

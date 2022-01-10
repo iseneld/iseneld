@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/iseneld/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseneld&theme=apprentice&layout=compact" height="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseneld&theme=apprentice&layout=compact" height="200"/>
 </a>
 <a href="https://github.com/iseneld/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iseneld&theme=apprentice&layout=compact" height="200"/>
 </a>

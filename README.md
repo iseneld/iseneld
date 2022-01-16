@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@iseneld**
+- 👋 Hi, I’m **Michel Iseneld**
 - 👀 I’m interested in **consciousness** and **sensory exploration**.
 - 🌱 I’m currently learning **frontend development**.
 - 💞️ MTG Commander pet deck: **Adeline, Resplendent Cathar** (Human Tribal Tokens)

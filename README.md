@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Michel Iseneld**
 - 👀 I’m interested in **consciousness** and **sensory exploration**.
 - 🌱 I’m currently learning **frontend development**.
-- 💞️ MTG Commander pet deck: **Adeline, Resplendent Cathar** (Human Tribal Tokens)
 - 📫 How to reach me: **michel@hypnusrecords.com**
+- 🧠 Rational compassion, spiritual atheism, art and science.
 
 <!---
 iseneld/iseneld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

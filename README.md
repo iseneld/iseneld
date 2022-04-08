@@ -2,7 +2,7 @@
 - 👀 I’m interested in **consciousness** and **sensory exploration**.
 - 🌱 I’m currently learning **frontend development**.
 - 📫 How to reach me: **michel@hypnusrecords.com**
-- 🧠 Rational compassion, art and science.
+- 🧠 Rational compassion, mind and matter, art and science.
 
 <!---
 iseneld/iseneld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
